@@ -1,2 +1,2 @@
 # Campus
-Toutes vos notes de cours (Lycée Saint-Coeur
+Toutes vos notes de cours (Lycée Saint-Coeur)
